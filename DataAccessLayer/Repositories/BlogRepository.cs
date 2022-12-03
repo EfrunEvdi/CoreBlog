@@ -35,7 +35,7 @@ namespace DataAccessLayer.Repositories
         public List<Blog> ListAllBlog()
         {
             using var c = new Context();
-            return c.Blogs.ToList();
+            return c.Blogs.ToList();    
         }
 
         public void UpdateBlog(Blog blog)

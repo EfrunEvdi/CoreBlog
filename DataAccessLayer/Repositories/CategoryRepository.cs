@@ -11,10 +11,10 @@ namespace DataAccessLayer.Repositories
 {
     public class CategoryRepository : ICategoryDal
     {
-        Context c = new Context();
+        Context c = new Context();  
         public void AddCategory(Category category)
         {
-            c.Add(category);
+            c.Add(category);    
             c.SaveChanges();
         }
 

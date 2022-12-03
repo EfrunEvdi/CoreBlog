@@ -1,18 +1,18 @@
-C:\Users\efrun\OneDrive\Desktop\Yazılım\Murat Yücedağ MVC\CoreDemo\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.deps.json
-C:\Users\efrun\OneDrive\Desktop\Yazılım\Murat Yücedağ MVC\CoreDemo\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.json
-C:\Users\efrun\OneDrive\Desktop\Yazılım\Murat Yücedağ MVC\CoreDemo\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.dev.json
-C:\Users\efrun\OneDrive\Desktop\Yazılım\Murat Yücedağ MVC\CoreDemo\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.dll
-C:\Users\efrun\OneDrive\Desktop\Yazılım\Murat Yücedağ MVC\CoreDemo\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
-C:\Users\efrun\OneDrive\Desktop\Yazılım\Murat Yücedağ MVC\CoreDemo\DataAccessLayer\bin\Debug\net5.0\EntityLayer.dll
-C:\Users\efrun\OneDrive\Desktop\Yazılım\Murat Yücedağ MVC\CoreDemo\DataAccessLayer\bin\Debug\net5.0\EntityLayer.pdb
-C:\Users\efrun\OneDrive\Desktop\Yazılım\Murat Yücedağ MVC\CoreDemo\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.AssemblyReference.cache
-C:\Users\efrun\OneDrive\Desktop\Yazılım\Murat Yücedağ MVC\CoreDemo\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\efrun\OneDrive\Desktop\Yazılım\Murat Yücedağ MVC\CoreDemo\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
-C:\Users\efrun\OneDrive\Desktop\Yazılım\Murat Yücedağ MVC\CoreDemo\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
-C:\Users\efrun\OneDrive\Desktop\Yazılım\Murat Yücedağ MVC\CoreDemo\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
-C:\Users\efrun\OneDrive\Desktop\Yazılım\Murat Yücedağ MVC\CoreDemo\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CopyComplete
-C:\Users\efrun\OneDrive\Desktop\Yazılım\Murat Yücedağ MVC\CoreDemo\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.dll
-C:\Users\efrun\OneDrive\Desktop\Yazılım\Murat Yücedağ MVC\CoreDemo\DataAccessLayer\obj\Debug\net5.0\refint\DataAccessLayer.dll
-C:\Users\efrun\OneDrive\Desktop\Yazılım\Murat Yücedağ MVC\CoreDemo\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb
-C:\Users\efrun\OneDrive\Desktop\Yazılım\Murat Yücedağ MVC\CoreDemo\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.genruntimeconfig.cache
-C:\Users\efrun\OneDrive\Desktop\Yazılım\Murat Yücedağ MVC\CoreDemo\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll
+C:\Users\senab\OneDrive\Masaüstü\Proje\CoreDemo\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.deps.json
+C:\Users\senab\OneDrive\Masaüstü\Proje\CoreDemo\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.json
+C:\Users\senab\OneDrive\Masaüstü\Proje\CoreDemo\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.dev.json
+C:\Users\senab\OneDrive\Masaüstü\Proje\CoreDemo\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\senab\OneDrive\Masaüstü\Proje\CoreDemo\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\senab\OneDrive\Masaüstü\Proje\CoreDemo\DataAccessLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\senab\OneDrive\Masaüstü\Proje\CoreDemo\DataAccessLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\senab\OneDrive\Masaüstü\Proje\CoreDemo\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\senab\OneDrive\Masaüstü\Proje\CoreDemo\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\senab\OneDrive\Masaüstü\Proje\CoreDemo\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\senab\OneDrive\Masaüstü\Proje\CoreDemo\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\senab\OneDrive\Masaüstü\Proje\CoreDemo\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\senab\OneDrive\Masaüstü\Proje\CoreDemo\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\senab\OneDrive\Masaüstü\Proje\CoreDemo\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.dll
+C:\Users\senab\OneDrive\Masaüstü\Proje\CoreDemo\DataAccessLayer\obj\Debug\net5.0\refint\DataAccessLayer.dll
+C:\Users\senab\OneDrive\Masaüstü\Proje\CoreDemo\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\senab\OneDrive\Masaüstü\Proje\CoreDemo\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\senab\OneDrive\Masaüstü\Proje\CoreDemo\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll

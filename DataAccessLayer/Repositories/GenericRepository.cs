@@ -21,14 +21,12 @@ namespace DataAccessLayer.Repositories
         {
             using var c = new Context();
             return c.Set<T>().Find(id);
-            
         }
 
         public List<T> GetListAll()
         {
             using var c = new Context();
             return c.Set<T>().ToList();
-            // Kullanabileceğimiz bir entity olmadığı ve dışardan alabilceğimiz için böyle bir entity oluşturduk.
         }
 
         public void Insert(T t)
@@ -43,11 +41,6 @@ namespace DataAccessLayer.Repositories
             using var c = new Context();
             c.Update(t);
             c.SaveChanges();
-        }
-
-        List<T> IGenericDal<T>.GetByID(int id)
-        {
-            throw new NotImplementedException();
         }
     }
 }
