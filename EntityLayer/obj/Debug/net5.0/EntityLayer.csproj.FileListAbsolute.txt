@@ -1,0 +1,12 @@
+C:\Users\efrun\OneDrive\Desktop\Yazılım\Murat Yücedağ MVC\CoreDemo\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+C:\Users\efrun\OneDrive\Desktop\Yazılım\Murat Yücedağ MVC\CoreDemo\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\efrun\OneDrive\Desktop\Yazılım\Murat Yücedağ MVC\CoreDemo\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\efrun\OneDrive\Desktop\Yazılım\Murat Yücedağ MVC\CoreDemo\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\efrun\OneDrive\Desktop\Yazılım\Murat Yücedağ MVC\CoreDemo\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efrun\OneDrive\Desktop\Yazılım\Murat Yücedağ MVC\CoreDemo\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\efrun\OneDrive\Desktop\Yazılım\Murat Yücedağ MVC\CoreDemo\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+C:\Users\efrun\OneDrive\Desktop\Yazılım\Murat Yücedağ MVC\CoreDemo\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\efrun\OneDrive\Desktop\Yazılım\Murat Yücedağ MVC\CoreDemo\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+C:\Users\efrun\OneDrive\Desktop\Yazılım\Murat Yücedağ MVC\CoreDemo\EntityLayer\obj\Debug\net5.0\refint\EntityLayer.dll
+C:\Users\efrun\OneDrive\Desktop\Yazılım\Murat Yücedağ MVC\CoreDemo\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+C:\Users\efrun\OneDrive\Desktop\Yazılım\Murat Yücedağ MVC\CoreDemo\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
