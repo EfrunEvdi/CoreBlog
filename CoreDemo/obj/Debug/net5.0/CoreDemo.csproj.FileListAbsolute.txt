@@ -308,3 +308,8 @@ C:\Users\efrun\Source\Repos\CoreBlog\CoreDemo\obj\Debug\net5.0\CoreDemo.csproj.C
 C:\Users\efrun\Source\Repos\CoreBlog\CoreDemo\obj\Debug\net5.0\CoreDemo.genruntimeconfig.cache
 C:\Users\efrun\Source\Repos\CoreBlog\CoreDemo\obj\Debug\net5.0\ref\CoreDemo.dll
 C:\Users\efrun\Source\Repos\CoreBlog\CoreDemo\obj\Debug\net5.0\Razor\Views\Category\Index.cshtml.g.cs
+C:\Users\efrun\Source\Repos\CoreBlog\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\UserLayout.cshtml.g.cs
+C:\Users\efrun\Source\Repos\CoreBlog\CoreDemo\obj\Debug\net5.0\Razor\Views\Blog\Index.cshtml.g.cs
+C:\Users\efrun\Source\Repos\CoreBlog\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\Partial1.cshtml.g.cs
+C:\Users\efrun\Source\Repos\CoreBlog\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\Partial2.cshtml.g.cs
+C:\Users\efrun\Source\Repos\CoreBlog\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\Partial3.cshtml.g.cs
