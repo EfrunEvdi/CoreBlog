@@ -1,10 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\CoreDemo",
-    "\\CoreDemo\\Views",
     "\\CoreDemo\\Views\\Category"
   ],
-  "SelectedNode": "\\CoreDemo\\Views\\Category\\Index.cshtml",
+  "SelectedNode": "\\CoreDemo.sln",
   "PreviewInSolutionExplorer": false
 }
